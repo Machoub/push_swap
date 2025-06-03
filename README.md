@@ -35,6 +35,7 @@ Only a limited set of operations is allowed, such as push, swap, rotate, and rev
 
 ```
 make
+```
 ## 🔧 Build
 
 ```
@@ -81,4 +82,6 @@ Writing efficient code with a focus on performance and optimization
 
 ---
 
-
+## 👨‍💻 Author
+**Mehdi Adel Achouba**  
+**42 Paris – Login: machouba**
