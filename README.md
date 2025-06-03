@@ -70,15 +70,15 @@ Duplicates
 Integers out of bounds (INT_MIN, INT_MAX)
 
 ## 🧠 What I Learned
-Building a custom sorting algorithm adapted to constraints
+- Building a custom sorting algorithm adapted to constraints
 
-Managing doubly linked lists and stacks
+- Managing doubly linked lists and stacks
 
-Implementing and optimizing greedy logic
+- Implementing and optimizing greedy logic
 
-Handling input parsing, validation, and memory management
+- Handling input parsing, validation, and memory management
 
-Writing efficient code with a focus on performance and optimization
+- Writing efficient code with a focus on performance and optimization
 
 ---
 
